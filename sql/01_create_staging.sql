@@ -1,5 +1,6 @@
--- Staging tables store raw CRM data loaded from CSV files
-
+/* 
+	Staging tables store raw CRM data loaded from CSV files
+*/
 -- Create stag schema
 IF NOT EXISTS (
     SELECT 1 

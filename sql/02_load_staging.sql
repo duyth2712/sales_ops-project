@@ -31,6 +31,7 @@ WITH
     ROWTERMINATOR = '0x0a',
     TABLOCK
 );
+
 -- Truncate staging table and reload sales_teams data from CSV
 IF EXISTS (SELECT 1 FROM stag.sales_teams)
 BEGIN

@@ -25,3 +25,45 @@ Kiểm tra routing
 Phát hiện lead bị xử lý chậm / thất lạc
 
 Báo cáo hiệu suất theo ngày & theo sales
+
+
+README.md NÊN VIẾT NHƯ THẾ NÀO? (RẤT QUAN TRỌNG)
+🔹 README CHUẨN OPS ANALYST
+## Sales Operations Analyst Mini Project
+
+### Objective
+Analyze CRM sales pipeline data to evaluate workload distribution,
+pipeline health, and SLA compliance.
+
+### Dataset
+CRM Sales Opportunities dataset (Maven Analytics)
+
+### Key Tasks
+1. Sales workload distribution analysis
+2. Pipeline health and bottleneck detection
+3. SLA analysis for deal progression
+4. Data quality and missing data checks
+
+### Tools
+- SQL Server
+- SQL
+- Power BI
+
+Cách ghi project trong CV (RẤT QUAN TRỌNG)
+✅ MẪU CHUẨN (copy dùng luôn)
+
+Operations Analyst Mini Project – Sales Ops
+• Designed CRM-style relational database with primary & foreign keys
+• Analyzed sales workload, pipeline stages, and SLA performance using SQL
+• Identified operational bottlenecks and routing imbalance
+• Built dashboards to support sales operations decisions
+
+6️⃣ Nếu phỏng vấn hỏi:
+
+“Bạn tổ chức SQL project như thế nào?”
+
+👉 Trả lời ghi điểm:
+
+“I separated database schema, data loading, and analysis logic into different SQL 
+files. Analysis queries are grouped by operational tasks with clear documentation, 
+similar to how analytics work is organized in real Ops teams.”

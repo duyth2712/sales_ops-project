@@ -60,6 +60,7 @@ CREATE TABLE dbo.sales_pipeline
         FOREIGN KEY (sales_agent_id) REFERENCES dbo.sales_teams(sales_agent_id)
 ); 
 
+-- Add indexes on foreign keys to speed up joins and reporting queries
 CREATE INDEX IX_sales_pipeline_account_id
 ON dbo.sales_pipeline(account_id);
 

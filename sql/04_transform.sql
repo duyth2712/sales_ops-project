@@ -121,15 +121,3 @@ SELECT
 FROM stag.sales_pipeline
 WHERE account IS NULL
    OR product = 'GTXPro';
-
-SELECT *
-FROM sales_pipeline_rejects
-
-SELECT *
-FROM dbo.sales_pipeline
-
-SELECT *
-FROM stag.sales_pipeline
-
-truncate table dbo.sales_pipeline_rejects
--- 6117 valid, 2683 unvalid
