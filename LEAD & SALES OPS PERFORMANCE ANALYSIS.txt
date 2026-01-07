@@ -1,0 +1,27 @@
+MINI PROJECT: LEAD & SALES OPS PERFORMANCE ANALYSIS
+1. Mục tiêu project (để ghi CV)
+
+Analyze lead flow from intake to sales contact, monitor SLA compliance, detect routing and data quality issues, and propose operational improvements.
+
+👉 Nhà tuyển dụng nhìn vào sẽ thấy bạn:
+
+Hiểu flow lead
+
+Biết SLA
+
+Biết ops dashboard & reconciliation
+
+Biết dùng SQL đúng việc
+
+2. Bối cảnh (Scenario)
+
+Công ty nhận lead từ nhiều nguồn (Ads, Website, Partner).
+Ops team cần:
+
+Theo dõi SLA
+
+Kiểm tra routing
+
+Phát hiện lead bị xử lý chậm / thất lạc
+
+Báo cáo hiệu suất theo ngày & theo sales
